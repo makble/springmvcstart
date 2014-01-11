@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Class Files #
 *.class
 
@@ -77,3 +78,11 @@ local.properties
 # PDT-specific
 .buildpath
 .gradle
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> c9f2480188177afb4426e118b84bcb4df936c590
